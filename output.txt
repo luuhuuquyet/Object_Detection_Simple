@@ -1,0 +1,58 @@
+Output frame :0
+Ojbect 0 : ( 79, 23, 59, 73 )
+Ojbect 1 : ( 38, 248, 85, 99 )
+Ojbect 2 : ( 11, 365, 80, 70 )
+Ojbect 3 : ( 104, 451, 93, 152 )
+Output frame :1
+Ojbect 0 : ( 263, 0, 58, 29 )
+Ojbect 1 : ( 218, 33, 69, 84 )
+Ojbect 2 : ( 0, 125, 60, 95 )
+Ojbect 3 : ( 30, 401, 89, 90 )
+Ojbect 4 : ( 419, 457, 37, 20 )
+Ojbect 5 : ( 403, 477, 50, 50 )
+Output frame :2
+Ojbect 0 : ( 46, 229, 46, 46 )
+Ojbect 1 : ( 95, 274, 18, 36 )
+Ojbect 2 : ( 352, 360, 97, 97 )
+Ojbect 3 : ( 384, 548, 90, 77 )
+Ojbect 4 : ( 254, 569, 58, 70 )
+Output frame :3
+Ojbect 0 : ( 220, 0, 86, 77 )
+Ojbect 1 : ( 298, 166, 90, 92 )
+Ojbect 2 : ( 173, 223, 73, 76 )
+Ojbect 3 : ( 421, 516, 88, 88 )
+Ojbect 4 : ( 401, 565, 38, 54 )
+Output frame :4
+Ojbect 0 : ( 208, 82, 73, 67 )
+Ojbect 1 : ( 26, 115, 76, 84 )
+Ojbect 2 : ( 128, 207, 84, 101 )
+Ojbect 3 : ( 419, 457, 86, 66 )
+Ojbect 4 : ( 386, 541, 79, 77 )
+Output frame :5
+Ojbect 0 : ( 343, 63, 87, 86 )
+Ojbect 1 : ( 167, 343, 72, 72 )
+Ojbect 2 : ( 223, 400, 58, 66 )
+Ojbect 3 : ( 375, 508, 64, 74 )
+Ojbect 4 : ( 0, 575, 46, 68 )
+Output frame :6
+Ojbect 0 : ( 104, 0, 93, 71 )
+Ojbect 1 : ( 310, 102, 86, 109 )
+Ojbect 2 : ( 420, 177, 79, 80 )
+Ojbect 3 : ( 153, 220, 82, 89 )
+Output frame :7
+Ojbect 0 : ( 302, 0, 47, 47 )
+Ojbect 1 : ( 346, 0, 28, 39 )
+Ojbect 2 : ( 418, 0, 89, 41 )
+Ojbect 3 : ( 228, 348, 124, 111 )
+Ojbect 4 : ( 0, 462, 78, 74 )
+Output frame :8
+Ojbect 0 : ( 159, 21, 82, 118 )
+Ojbect 1 : ( 372, 361, 85, 86 )
+Ojbect 2 : ( 0, 584, 79, 85 )
+Ojbect 3 : ( 317, 585, 94, 95 )
+Output frame :9
+Ojbect 0 : ( 426, 0, 84, 81 )
+Ojbect 1 : ( 373, 86, 91, 78 )
+Ojbect 2 : ( 248, 90, 77, 87 )
+Ojbect 3 : ( 302, 190, 75, 86 )
+Ojbect 4 : ( 383, 220, 88, 78 )
