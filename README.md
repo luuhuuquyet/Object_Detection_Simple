@@ -1,5 +1,3 @@
-# Zeta Motion LTD  - Technical Challenge for Software Engineer (CPP001)
-
 In this challenge, you will be asked to write a simple application in C/C++ to find the bounding boxes of the objects in an
 image, as shown in Figure 1. An object is defined as a continuous "Blob" of non-black pixels.
 
